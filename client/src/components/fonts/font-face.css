@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Hauss-Regular';
+    src: local('Hauss-Regular'),
+    url('als_hauss-regular-webfont.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Hauss-Regular-Italic';
+    src: local('Hauss-Regular-Italic'),
+    url('als_hauss-regular_italic-webfont.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Hauss-Book';
+    src: local('Hauss-Book'),
+    url('als_hauss-book-webfont.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Hauss-Book-Italic';
+    src: local('Hauss-Book-Italic'),
+    url('als_hauss-book_italic-webfont.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Hauss-Bold-Italic';
+    src: local('Hauss-Bold-Italic'),
+    url('als_hauss-bold_italic-webfont.ttf') format('truetype');
+}
